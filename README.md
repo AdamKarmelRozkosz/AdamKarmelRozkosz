@@ -1,7 +1,9 @@
 ## Hello my fellow friend 
 
 I'm Adam and I'm working towards becoming a software developer.
-Mainly learning Python and Rust.
+Mainly learning Python and Rust.  
+
+Also learning VIM btw
 
 <!--
 **AdamKarmelRozkosz/AdamKarmelRozkosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
